@@ -4,6 +4,9 @@
 # Visual Studio Code
 .vscode/
 
+# IDE User Configs
+GraphsApp.csproj.DotSettings
+
 # Test Results
 TestResults/
 
